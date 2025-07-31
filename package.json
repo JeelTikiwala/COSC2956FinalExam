@@ -1,0 +1,19 @@
+{
+  "name": "cosc2956finalexam",
+  "version": "1.0.0",
+  "description": "Final exam project for COSC2956",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "sass-build": "sass scss/bootstrap.scss css/bootstrap.css",
+  "sass-watch": "sass --watch scss/bootstrap.scss:css/bootstrap.css"
+  },
+  "keywords": [],
+  "author": "Jeel Tikiwala",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "sass": "^1.89.2",
+    "scss": "^0.2.4"
+  }
+}
