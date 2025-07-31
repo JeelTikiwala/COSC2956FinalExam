@@ -1,13 +1,16 @@
+<!-- q10 - 1 -->
 <?php include 'header.php'; ?>
 
+<!-- q10 - 2 -->
 <h2>Enter a Message</h2>
 
 <form method="post" action="">
   <input type="text" name="message" placeholder="Enter your message" required>
-  <button type="submit" name="submit">Submit</button>
+  <button type="submit" name="submit">Submit</button> <!-- q10 - 3 -->
 </form>
 
 <br>
+<!-- q10 - 4 -->
 <a href="showAll.php">Show all records</a>
 
 

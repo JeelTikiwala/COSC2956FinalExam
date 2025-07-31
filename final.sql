@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Jul 31, 2025 at 04:06 PM
+-- Generation Time: Jul 31, 2025 at 04:25 PM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -38,10 +38,13 @@ CREATE TABLE `string_info` (
 
 INSERT INTO `string_info` (`string_id`, `message`) VALUES
 (1, 'THIS IS FINAL EXAM'),
-(6, 'My name is jeel'),
-(7, 'MY exam is going on right now.'),
-(8, 'cool'),
-(9, 'okay');
+(11, 'Exam 2956'),
+(12, 'My name is Jeel'),
+(13, 'My student id is 239659420'),
+(14, 'this is not'),
+(15, 'this is not'),
+(16, 'this is not'),
+(17, 'This is done');
 
 --
 -- Indexes for dumped tables
@@ -61,7 +64,7 @@ ALTER TABLE `string_info`
 -- AUTO_INCREMENT for table `string_info`
 --
 ALTER TABLE `string_info`
-  MODIFY `string_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `string_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

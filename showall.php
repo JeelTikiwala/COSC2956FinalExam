@@ -1,3 +1,4 @@
+
 <?php include 'header.php'; ?>
 
 <h2>All Records</h2>
