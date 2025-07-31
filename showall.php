@@ -18,6 +18,7 @@ try {
 }
 ?>
 
+<br><br>
 <h2>Delete a Record</h2>
 
 <form method="post" action="">
