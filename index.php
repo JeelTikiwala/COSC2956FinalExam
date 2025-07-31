@@ -1,5 +1,4 @@
-<!-- q10 - 1 -->
-<?php include 'header.php'; ?>
+<?php include "header.php"; ?>
 
 <!-- q10 - 2 -->
 <h2>Enter a Message</h2>
